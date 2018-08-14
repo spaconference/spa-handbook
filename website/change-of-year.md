@@ -1,6 +1,6 @@
 # On change of year
 
-## Website admin tasks to change the site
+## Website admin tasks
 
 In [SPA website](https://github.com/spaconference/spa-website/):
 - Change current year in `_config.yml`.
@@ -17,4 +17,10 @@ In [SPA website](https://github.com/spaconference/spa-website/):
 
 [Example change of year PR](https://github.com/spaconference/spa-website/pull/62) (doesn't include the [Nth year change](https://github.com/spaconference/spa-website/pull/63)).
 
+## Conference organisers tasks
 
+- Update organisers page with this year's chairs
+- Put in all dates  e.g. conference dates, close of CFP, Programme meeting, etc
+- Work out sponsorship packages (cost, what's included, number) and then make that page active
+- Put in dates for lead a session pages and make those pages live
+- If tickets are already available, make the book now page and button live
