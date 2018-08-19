@@ -27,4 +27,6 @@ Before the website admin can redirect https://spaconference.org to this year's s
 
 and ideally the lead a session page and dates.
 
+The website itself is [here](https://github.com/spaconference/spa-website).
+
 See [month-by-month](/month-by-month.md) for more detail of what needs to be done at each stage.
