@@ -19,8 +19,12 @@ In [SPA website](https://github.com/spaconference/spa-website/):
 
 ## Conference organisers tasks
 
-- Update organisers page with this year's chairs
-- Put in all dates  e.g. conference dates, close of CFP, Programme meeting, etc
-- Work out sponsorship packages (cost, what's included, number) and then make that page active
-- Put in dates for lead a session pages and make those pages live
-- If tickets are already available, make the book now page and button live
+Before the website admin can redirect https://spaconference.org to this year's site, the conference organisers need to have updated at least:
+
+- sponsorship page
+- conference dates
+- organisers page
+
+and ideally the lead a session page and dates.
+
+See [month-by-month](/month-by-month.md) for more detail of what needs to be done at each stage.

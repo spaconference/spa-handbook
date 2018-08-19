@@ -7,6 +7,8 @@ What each of the chairs should be doing at each stage throughout the year.
 ### Conference chairs
 
 - Confirm next year’s conference dates with Mandy and update on the site
+- Update organisers page with this year's chairs
+- If tickets are already available, make the book now page and button live
 
 ### Programme chairs
 
