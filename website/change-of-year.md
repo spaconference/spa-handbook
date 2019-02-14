@@ -17,6 +17,10 @@ In [SPA website](https://github.com/spaconference/spa-website/):
 
 [Example change of year PR](https://github.com/spaconference/spa-website/pull/62) (doesn't include the [Nth year change](https://github.com/spaconference/spa-website/pull/63)).
 
+When the site is live update the [@spaconference](https://twitter.com/spaconference) Twitter profile. Update the profile image to reflect the current year, and the header image to reflect the conference dates.
+
+The Photoshop PSD files for the images are in [assets/twitter](assets/twitter). Export the images as PNGs. Please ask the organisers for the twitter account password.
+
 ## Conference organisers tasks
 
 Before the website admin can redirect https://spaconference.org to this year's site, the conference organisers need to have updated at least:
