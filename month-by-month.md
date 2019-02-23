@@ -112,7 +112,13 @@ What each of the chairs should be doing at each stage throughout the year.
 
 ### Programme chairs
 
-- Decide who to invite to review sessions
+- Set a date for the programme meeting and invite people
+- Decide who to invite to review sessions (you might want to email all registered SPA users (who have consented to contact) or a smaller group)
+- When the submission deadline has passed, the website admin will update the MySpa pages to change the conference phase, but you need to update the website:
+  - Remove the 'submit a session' button
+  - Remove the 'lead a session' link from the navigation (via the [_config.yml](https://github.com/spaconference/spa-website/blob/master/_config.yml#L50))
+  - Add a line at the top of the 'lead a session' page to explain that submissions are now closed (something like [this](https://www.spaconference.org/spa2018/lead-a-session.html))
+  - *Note* do not remove the lead a session page, we do not want a 404
 - Encourage those people to review sessions
 - Review lots of sessions
 - Make sure every session has at least 3 reviews
