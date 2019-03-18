@@ -14,3 +14,4 @@
 1. As soon as the programme meeting is finished, email all the accepted speakers and give them a deadline to confirm attendance. We can't publish the programme until the speakers have accepted. You should ask them to update their sessions and user pages at this point, as what they've entered will be published.
 1. You should also email the rejected presenters.
 1. It is also worth emailing the reserve list to let them know they are in reserve and to give them a date by which we will let them know if they are in or out.
+1. You can [edit the programme](/editing_the_programme.md) straight away and save it in draft, and publish it when all sessions are confirmed.
