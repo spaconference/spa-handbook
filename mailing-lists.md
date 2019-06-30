@@ -10,13 +10,16 @@ organisers@ goes to:
 programme@
 conference@
 website@
+
+And usually, but not in 2020,
 marketing@
 
-and the additional members of the committee. In 2020 these are:
+It also goes to the additional members of the committee. In 2020 these are:
 
 Eoin Woods
 Gen Ashley
 Hibri Marzook
+Maryam Umar
 Rob Chatley
 
 admin@ goes to organisers@ plus Mandy Bauer, who is the Events Executive at the BCS.
