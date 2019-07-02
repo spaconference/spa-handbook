@@ -17,6 +17,7 @@ It also goes to the additional members of the committee. In 2020 these are:
 - Gen Ashley
 - Rob Chatley
 - Hibri Marzook
+- Chris O'Dell
 - Maryam Umar
 - Eoin Woods
 
