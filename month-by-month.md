@@ -18,7 +18,7 @@ What each of the chairs should be doing at each stage throughout the year.
 
 - Make next year’s site live so chairs can edit it
 - All other change of year website tasks
-- Update email forwarders and GitHub permissions with new chairs
+- Update [email forwarders](/mailing-lists.md) and GitHub permissions with new chairs
 
 ## September
 
