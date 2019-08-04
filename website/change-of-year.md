@@ -10,16 +10,12 @@ In [SPA website](https://github.com/spaconference/spa-website/):
 - Add current year to previous conferences page
 - Put any dates that we know in and set all others to TBC
 - Reset the site navigation menu so relevant ones are shown (at start, probably just location, organisers, previous conferences and code of conduct) and add the pages now not published to the excludes list
-- Comment out the book now button
-- Reset sponsorship page
-- Change year on index page! ("Now in its Nth year...")
+- Comment out the book now button (in [the header](/_includes/header.html)).
+- Make changes to index page (e.g. change year) and other changes to content (e.g. if sponsorship package has been agreed).
 - Merge PR and check it all looks OK in situ at the new location
 
 [Example change of year PR](https://github.com/spaconference/spa-website/pull/62) (doesn't include the [Nth year change](https://github.com/spaconference/spa-website/pull/63)).
 
-When the site is live update the [@spaconference](https://twitter.com/spaconference) Twitter profile. Update the profile image to reflect the current year, and the header image to reflect the conference dates.
-
-The Photoshop PSD files for the images are in [assets/twitter](assets/twitter). Export the images as PNGs. Please ask the organisers for the twitter account password.
 
 ## Conference organisers tasks
 
@@ -32,5 +28,13 @@ Before the website admin can redirect https://spaconference.org to this year's s
 and ideally the lead a session page and dates.
 
 The website itself is [here](https://github.com/spaconference/spa-website).
+
+### Update Twitter
+
+The Twitter account is run by the conference chairs.
+
+When the site is live update the [@spaconference](https://twitter.com/spaconference) Twitter profile. Update the profile image to reflect the current year, and the header image to reflect the conference dates.
+
+The Photoshop PSD files for the images are in [assets/twitter](assets/twitter). Export the images as PNGs. Please ask the organisers for the twitter account password.
 
 See [month-by-month](/month-by-month.md) for more detail of what needs to be done at each stage.

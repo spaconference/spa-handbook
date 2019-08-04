@@ -18,6 +18,8 @@ It also goes to the additional members of the committee. In 2020 these are:
 - Rob Chatley
 - Hibri Marzook
 - Chris O'Dell
+- Constantina Polycarpou
+- Raul Rodriguez
 - Maryam Umar
 - Eoin Woods
 
