@@ -22,5 +22,6 @@ It also goes to the additional members of the committee. In 2020 these are:
 - Raul Rodriguez
 - Maryam Umar
 - Eoin Woods
+- Daphne Tsalli
 
 admin@ goes to organisers@ plus Mandy Bauer, who is the Events Executive at the BCS.
