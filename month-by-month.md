@@ -8,6 +8,7 @@ What each of the chairs should be doing at each stage throughout the year.
 
 - Confirm next year’s conference dates with Mandy and update on the site
 - Update organisers page with this year's chairs
+- Update [GitHub team](https://github.com/orgs/spaconference/teams/current-year-chairs/members) - all chairs should be maintainers, add any new members, remove anyone who is no longer part of the committee this year
 - If tickets are already available, make the book now page and button live
 
 ### Programme chairs
