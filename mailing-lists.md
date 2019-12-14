@@ -2,7 +2,7 @@
 
 programme@ goes to the Programme Chairs. For 2020, this is Jason Ayers and Nat Pryce
 
-conference@ goes to the Conference Chairs. For 2020, this is Giovanni Asproni
+conference@ goes to the Conference Chairs. For 2020, this is Giovanni Asproni and Raul Rodriguez
 
 website@ goes to the website administrator, Anna Shipman
 
@@ -16,10 +16,10 @@ It also goes to the additional members of the committee. In 2020 these are:
 
 - Gen Ashley
 - Rob Chatley
+- Immo Huneke
 - Hibri Marzook
 - Chris O'Dell
 - Constantina Polycarpou
-- Raul Rodriguez
 - Maryam Umar
 - Eoin Woods
 - Daphne Tsalli
