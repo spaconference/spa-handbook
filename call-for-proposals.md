@@ -7,7 +7,7 @@ How to write and publicise the call for proposals.
 
 # Update and activate the CFP on the website
 
-The CFP is in the spa-website project, in the file [lead-a-session.md](/spaconference/spa-website/blob/master/lead-a-session.md).
+The CFP is in the spa-website project, in the file [lead-a-session.md](https://github.com/spaconference/spa-website/blob/master/lead-a-session.md).
 
 Unexclude the CFP files in the _config.yml file to make the CFP visible on the site.
 
