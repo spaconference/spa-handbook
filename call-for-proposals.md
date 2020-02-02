@@ -7,9 +7,21 @@ How to write and publicise the call for proposals.
 
 # Update and activate the CFP on the website
 
-The CFP is in the spa-website project, in the file [lead-a-session.md](https://github.com/spaconference/spa-website/blob/master/lead-a-session.md).
+The CFP is a subsection of the [SPA website](https://github.com/spaconference/spa-website/), made up of the files
 
-Unexclude the CFP files in the _config.yml file to make the CFP visible on the site.
+  * lead-a-session.md
+  * info-for-speakers.md
+  * interactivity.md
+  * submission-stages.md
+  * successful-sessions.md
+
+The navigation menu for the CFP subsection is in the include file `_includes/lead-a-session-nav.html`.
+
+To announce a CFP:
+
+ 1. Ensure these files are up to date and reflect the process and focus of this year's conference.
+ 2. Comment out the files in the `exclude` section of the `_config.yml` file, to make the CFP visible on the site.
+
 
 # Publicise the CFP
 
