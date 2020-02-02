@@ -19,11 +19,17 @@ As conference organiser, you have administrator privileges on the [SPA website](
 
 Download that list and replace the list in mailchimp with it.  Then send the CFP to the list.
 
+### Twitter
+
+... How to post as the @spaconference Twitter user?
+
+### LinkedIn
+
+... How to post to Linked In as the SPA Conference user?
 
 ## CFP websites
 
 ... Where do we publicise the CFP? ...
-
 
 ## Mail and discussion groups
 
