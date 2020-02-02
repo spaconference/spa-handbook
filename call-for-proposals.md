@@ -37,7 +37,14 @@ Download that list and replace the list in mailchimp with it.  Then send the CFP
 
 ### LinkedIn
 
-... How to post to Linked In as the SPA Conference user?
+Once the CfP is open Hibri Marzook or Raul Rodriguez can help granting access to SPA's LinkedIn page. No credentials are required but owning a personal LinkedIn account.
+
+To publicise the CfP for the first time:
+
+  1. The page's banner should be updated.
+  2. An initial post to announce the opening of the CfP should be sent as soon as possible.
+
+To send a post from SPA's LinkedIn page log in to your LinkedIn account, find the link to page's admin view and finally type and publish the post.
 
 ## CFP websites
 
