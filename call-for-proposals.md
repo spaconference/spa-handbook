@@ -33,7 +33,7 @@ Download that list and replace the list in mailchimp with it.  Then send the CFP
 
 ### Twitter
 
-... How to post as the @spaconference Twitter user?
+... How to post as the [@spaconference](https://twitter.com/spaconference) Twitter user?
 
 ### LinkedIn
 
