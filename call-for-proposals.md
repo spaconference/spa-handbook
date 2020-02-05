@@ -48,7 +48,8 @@ To send a post from SPA's LinkedIn page log in to your LinkedIn account, find th
 
 ## CFP websites
 
-... Where do we publicise the CFP? ...
+* [CFP Land](https://www.cfpland.com/)
+
 
 ## Mail and discussion groups
 
