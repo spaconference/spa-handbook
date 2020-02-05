@@ -48,6 +48,8 @@ To send a post from SPA's LinkedIn page log in to your LinkedIn account, find th
 
 ## CFP websites
 
+It is free to post a CFP to these websites.  They also feed CFP aggregators.
+
 * [CFP Land](https://www.cfpland.com/)
 * [Confs.tech](https://confs.tech/)
 
