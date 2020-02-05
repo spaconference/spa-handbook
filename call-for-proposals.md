@@ -35,7 +35,10 @@ Download that list and replace the list in mailchimp with it.  Then send the CFP
 
 ... How to post as the [@spaconference](https://twitter.com/spaconference) Twitter user?
 
+
 ### LinkedIn
+
+... How to post as the [@spaconference](https://www.linkedin.com/company/spa-conference/) LinkedIn user?
 
 Once the CfP is open Hibri Marzook or Raul Rodriguez can help granting access to SPA's LinkedIn page. No credentials are required but owning a personal LinkedIn account.
 
