@@ -49,6 +49,7 @@ To send a post from SPA's LinkedIn page log in to your LinkedIn account, find th
 ## CFP websites
 
 * [CFP Land](https://www.cfpland.com/)
+* [Confs.tech](https://confs.tech/)
 
 
 ## Mail and discussion groups
