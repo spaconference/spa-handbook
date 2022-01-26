@@ -12,7 +12,7 @@ marketing@ goes to the Marketing Chair, when we have one, but for 2020 it forwar
 
 programme@, conference@ and website@ (and usually, but not in 2020, marketing@)
 
-It also goes to the additional members of the committee. In 2020 these are:
+It also goes to the additional members of the committee. These are:
 
 - Gen Ashley
 - Rob Chatley
@@ -23,5 +23,6 @@ It also goes to the additional members of the committee. In 2020 these are:
 - Maryam Umar
 - Eoin Woods
 - Daphne Tsalli
+- Amit Bhagwat
 
 admin@ goes to organisers@ plus Mandy Bauer, who is the Events Executive at the BCS.
