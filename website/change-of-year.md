@@ -1,5 +1,7 @@
 # On change of year
 
+_Note: these instructions apply for years up to and including 2020.  In 2021, for various reasons, a Wix site was used instead.  The HTML from the Wix site was exported and saved to the "2021" directory in the [previous-spa-sites](https://github.com/spaconference/previous-spa-sites) repo.  For 2022, as the conference was simplified to a one day "MiniSPA" event, a simple hand-coded HTML site was used, which is in the "2022" directory in the same repo.  For 2023, a decision will need to be made whether to go back to using this full PHP based site with the build pipeline or not._
+
 ## Website admin tasks
 
 In [SPA website](https://github.com/spaconference/spa-website/):
@@ -29,11 +31,11 @@ and ideally the lead a session page and dates.
 
 The website itself is [here](https://github.com/spaconference/spa-website).
 
-### Update Twitter
+### Update Twitter and LinkedIn
 
-The Twitter account is run by the conference chairs.
+The Twitter and LinkedIn accounts are run by the conference chairs.
 
-When the site is live update the [@spaconference](https://twitter.com/spaconference) Twitter profile. Update the profile image to reflect the current year, and the header image to reflect the conference dates.
+When the site is live update the [@spaconference](https://twitter.com/spaconference) Twitter profile. Update the profile image to reflect the current year, and the header image to reflect the conference dates.  Then update the [LinkedIn organisation](https://www.linkedin.com/company/19143029/admin/) with the same image.
 
 The Photoshop PSD files for the images are in [assets/twitter](assets/twitter). Export the images as PNGs. Please ask the organisers for the twitter account password.
 
